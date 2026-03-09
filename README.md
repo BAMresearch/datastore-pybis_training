@@ -33,3 +33,5 @@ pip install --upgrade pybis
 ## Results
 
 ![Hierarchy Graph of Experimental Step: EuVSOP HEE Treatment with the  research workflow of the EuVSOP use case is visualized.](20260309_figures_for_README\20260309_EuVSOP_Results_hierarchical_graph.png)
+
+20260309_figures_for_README/20260309_EuVSOP_Results_hierarchical_graph.png
